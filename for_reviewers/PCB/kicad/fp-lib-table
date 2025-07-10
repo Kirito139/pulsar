@@ -1,6 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "OPL")(type "KiCad")(uri "${KIPRJMOD}/OPL_Kicad_Library/Seeed Studio XIAO Series Library")(options "")(descr ""))
-  (lib (name "Rotary_Encoder")(type "KiCad")(uri "${KIPRJMOD}/Rotary_Encoder.pretty")(options "")(descr ""))
-  (lib (name "hackpad")(type "KiCad")(uri "/Users/lmulder/hackpad")(options "")(descr ""))
-)
