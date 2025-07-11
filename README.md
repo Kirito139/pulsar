@@ -1,5 +1,11 @@
+Pulsar is a rather simple (its my first ever hardware project) macropad which I made for [highway.hackclub.com](highway.hackclub.com). It features a 3x3 electrical matrix arranged into a 2x4 key grid and a rotary encoder. There's also an OLED display and two NeoPixels! Rather simple design but I'll probably come back and improve it sometime.
+
+# Images
+<img width="1116" height="637" alt="pulsar_full" src="https://github.com/user-attachments/assets/5c63273b-d402-480d-805e-96b012449057" />
+<img width="1292" height="882" alt="pcb" src="https://github.com/user-attachments/assets/256c1fba-1cf0-4d6f-94f8-dfd0f7b95ba0" />
+<img width="954" height="897" alt="schematic" src="https://github.com/user-attachments/assets/0d271e85-3898-406d-a972-515d40d2ac51" />
+
 # BOM
----
 I will 3d print the case myself.
 
 Here's the BOM that KiCad generated:
